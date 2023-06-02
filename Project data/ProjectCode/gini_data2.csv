@@ -1,0 +1,160 @@
+Country Code,Country,Value,Year
+ALB,Albania,29,2012
+DZA,Algeria,27.6,2011
+AGO,Angola,42.7,2008
+ARG,Argentina,41.2,2017
+ARM,Armenia,33.6,2017
+AUS,Australia,35.8,2014
+AUT,Austria,30.5,2015
+AZE,Azerbaijan,26.6,2005
+BGD,Bangladesh,32.4,2016
+BLR,Belarus,25.4,2017
+BEL,Belgium,27.7,2015
+BLZ,Belize,53.3,1999
+BEN,Benin,47.8,2015
+BTN,Bhutan,37.4,2017
+BOL,Bolivia,44,2017
+BIH,Bosnia and Herzegovina,33,2011
+BWA,Botswana,53.3,2015
+BRA,Brazil,53.3,2017
+BGR,Bulgaria,37.4,2014
+BFA,Burkina Faso,35.3,2014
+BDI,Burundi,38.6,2013
+CPV,Cape Verde,47.2,2007
+CMR,Cameroon,46.6,2014
+CAN,Canada,34,2013
+CAF,Central African Republic,56.2,2008
+TCD,Chad,43.3,2011
+CHL,Chile,46.6,2017
+CHN,China,38.6,2015
+COL,Colombia,49.7,2017
+COM,Comoros,45.3,2013
+COG,Congo,48.9,2011
+CRI,Costa Rica,48.3,2017
+CIV,Côte d'Ivoire,41.5,2015
+HRV,Croatia,31.1,2015
+CYP,Cyprus,34,2015
+CZE,Czech Republic,25.9,2015
+COD,Dem. Rep. Congo,42.1,2012
+DNK,Denmark,28.2,2015
+DJI,Djibouti,41.6,2017
+DOM,Dominican Republic,45.7,2016
+ECU,Ecuador,44.7,2017
+EGY,Egypt,31.8,2015
+SLV,El Salvador,38,2017
+EST,Estonia,32.7,2015
+SWZ,Eswatini,51.5,2009
+ETH,Ethiopia,35,2015
+FJI,Fiji,36.7,2013
+FIN,Finland,27.1,2015
+FRA,France,32.7,2015
+GAB,Gabon,38,2017
+GEO,Georgia,37.9,2017
+DEU,Germany,31.7,2015
+GHA,Ghana,43.5,2016
+GRC,Greece,36,2015
+GTM,Guatemala,48.3,2014
+GIN,Guinea,33.7,2012
+GNB,Guinea-Bissau,50.7,2010
+GUY,Guyana,44.6,1998
+HTI,Haiti,41.1,2012
+HND,Honduras,50.5,2017
+HUN,Hungary,30.4,2015
+ISL,Iceland,27.8,2014
+IND,India,35.7,2011
+IDN,Indonesia,38.1,2017
+IRN,Iran,40,2016
+IRQ,Iraq,29.5,2012
+IRL,Ireland,31.8,2015
+ISR,Israel,38.9,2016
+ITA,Italy,35.4,2015
+JAM,Jamaica,45.5,2004
+JPN,Japan,32.1,2008
+JOR,Jordan,33.7,2010
+KAZ,Kazakhstan,27.5,2017
+KEN,Kenya,40.8,2015
+KIR,Kiribati,37,2006
+KOR,Korea,31.6,2012
+KGZ,Kyrgyz Republic,27.3,2017
+LAO,Lao PDR,36.4,2012
+LVA,Latvia,34.2,2015
+LBN,Lebanon,31.8,2011
+LSO,Lesotho,54.2,2010
+LBR,Liberia,35.3,2016
+LTU,Lithuania,37.4,2015
+LUX,Luxembourg,33.8,2015
+MDG,Madagascar,42.6,2012
+MWI,Malawi,44.7,2016
+MYS,Malaysia,41,2015
+MLI,Mali,33,2009
+MLT,Malta,29.4,2015
+MRT,Mauritania,32.6,2014
+MUS,Mauritius,38.5,2012
+MEX,Mexico,48.3,2016
+MDA,Moldova,25.9,2017
+MNG,Mongolia,32.3,2016
+MNE,Montenegro,31.9,2014
+MAR,Morocco,39.5,2013
+MOZ,Mozambique,54,2014
+MMR,Myanmar,38.1,2015
+NAM,Namibia,59.1,2015
+NPL,Nepal,32.8,2010
+NLD,Netherlands,28.2,2015
+NIC,Nicaragua,46.2,2014
+NER,Niger,34.3,2014
+NGA,Nigeria,43,2009
+MKD,North Macedonia,35.6,2015
+NOR,Norway,27.5,2015
+PAK,Pakistan,33.5,2015
+PAN,Panama,49.9,2017
+PNG,Papua New Guinea,41.9,2009
+PRY,Paraguay,48.8,2017
+PER,Peru,43.3,2017
+PHL,Philippines,44.4,2015
+POL,Poland,31.8,2015
+PRT,Portugal,35.5,2015
+ROU,Romania,35.9,2015
+RUS,Russia,37.7,2015
+RWA,Rwanda,43.7,2016
+WSM,Samoa,38.7,2013
+STP,São Tomé and Principe,30.8,2010
+SEN,Senegal,40.3,2011
+SRB,Serbia,39.6,2015
+SYC,Seychelles,46.8,2013
+SLE,Sierra Leone,34,2011
+SVK,Slovak Republic,26.5,2015
+SVN,Slovenia,25.4,2015
+SLB,Solomon Islands,37.1,2013
+ZAF,South Africa,63,2014
+ESP,Spain,36.2,2015
+LKA,Sri Lanka,39.8,2016
+LCA,St. Lucia,51.2,2016
+SDN,Sudan,35.4,2009
+SUR,Suriname,57.6,1999
+SWE,Sweden,29.2,2015
+CHE,Switzerland,32.3,2015
+SYR,Syrian Arab Republic,35.8,2004
+TJK,Tajikistan,34,2015
+TZA,Tanzania,37.8,2011
+THA,Thailand,36.5,2017
+GMB,The Gambia,35.9,2015
+TLS,Timor-Leste,28.7,2014
+TGO,Togo,43.1,2015
+TON,Tonga,37.6,2015
+TTO,Trinidad and Tobago,40.3,1992
+TUN,Tunisia,32.8,2015
+TUR,Turkey,41.9,2016
+TKM,Turkmenistan,40.8,1998
+TUV,Tuvalu,39.1,2010
+UGA,Uganda,42.8,2016
+UKR,Ukraine,25,2016
+GBR,United Kingdom,33.2,2015
+USA,United States,41.5,2016
+URY,Uruguay,39.5,2017
+UZB,Uzbekistan,35.3,2003
+VUT,Vanuatu,37.6,2010
+VEN,Venezuela,46.9,2006
+VNM,Vietnam,35.3,2016
+YEM,Yemen,36.7,2014
+ZMB,Zambia,57.1,2015
+ZWE,Zimbabwe,43.2,2011

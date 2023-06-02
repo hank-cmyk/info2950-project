@@ -1,0 +1,24 @@
+Hanwen Lin (hl2334), Hanna Kang(hak63), Liz Espinoza (eae65), and Samantha Rubin (sfr46)
+Info 2950 project phase 1
+
+github: https://github.coecis.cornell.edu/hak63/info2950-project
+
+Idea 1:
+Study the factors impacting air pollution in a Los Angeles.  We could look at
+weather data which is readily available, as well as fossil fuel combustion rates.
+https://data.world/data-society/us-air-pollution-data
+
+
+Idea 2:
+Study COVID trends within the U.K.  Data on infections, hospitalizations,
+and vaccines is readily available
+https://data.world/hdx/80ded4e2-aa4f-42bc-ad08-6c1effc24123
+
+Idea 3:
+Study the impact of changing habitats on endangered species.
+https://data.world/gpsdd/95b6ddf6-f2d9-422b-9d7c-e4ba136cdf58
+
+Questions for reviewers:
+1. Are any of these ideas too broad or too specific?
+2. Do the dataset links we provided seem reliable?
+
